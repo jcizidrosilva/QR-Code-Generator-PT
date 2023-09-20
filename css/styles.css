@@ -11,12 +11,14 @@ body  {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #34db7a;
+    /* background-color: #34db7a; */
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
 }
 
 /* Container */
 .container {
-    background-color: #fff;
+    background-color: #f1f1f1;
     height: 260px;
     width: 400px;
     border-radius: 10px;
@@ -64,7 +66,7 @@ body  {
 
 #qr-form button {
     background-color: #086824;
-    color: #fff;
+    color: #f1f1f1;
     font-size: 1.2rem;
     margin-top: 20px;
     cursor: pointer;
