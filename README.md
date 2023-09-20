@@ -1,4 +1,4 @@
-# QR-Code-Generator
+# QR-Code-Generator-PT
  Real-time QR code generator
 
 
@@ -18,5 +18,5 @@ I'm excited to continue developing my web development skills and explore new pro
 
 <img src="./img/1.png">
 
-<a href="https://jcizidrosilva.github.io/QR-Code-Generator/" target="_blank"></a>
+<h3><a href="https://jcizidrosilva.github.io/QR-Code-Generator/" target="_blank">Explore or QR Code Generator</a></h3>
 
