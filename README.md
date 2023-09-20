@@ -1,18 +1,18 @@
 # QR-Code-Generator-PT
- Real-time QR code generator
+ Gerador de QR Code em Tempo Real
 
+Descrição:
+"Desenvolvedor web aspirante com paixão por criar aplicações web amigáveis ao usuário. Recentemente, concluí um projeto prático que demonstra minhas habilidades em HTML, CSS e JavaScript. Projetei e construí uma página da web de Gerador de QR Code do zero, permitindo que os usuários gerem facilmente QR codes inserindo URLs ou texto. O projeto apresenta uma interface limpa e intuitiva, geração de QR codes em tempo real e design responsivo para diversos dispositivos.
 
-Description:
-"Aspiring web developer with a passion for creating user-friendly web applications. Recently completed a hands-on project that showcases my skills in HTML, CSS, and JavaScript. I designed and built a QR Code Generator web page from scratch, allowing users to easily generate QR codes by inputting URLs or text. The project features a clean and intuitive interface, real-time QR code generation, and responsive design for various devices.
+Recursos Principais:
 
-Key Features:
+Design de IU limpo e moderno.
+Geração de QR code em tempo real usando a API 'qrserver'.
+Layout responsivo para uma experiência do usuário perfeita em diversos dispositivos.
+Melhorias de acessibilidade para usuários de leitores de tela.
+Feedback amigável ao usuário durante a geração do código.
 
-Clean and modern UI design.
-Real-time QR code generation using the 'qrserver' API.
-Responsive layout for seamless user experience across devices.
-Accessibility enhancements for screen reader users.
-User-friendly feedback during code generation.
-I'm excited to continue developing my web development skills and explore new projects. Connect with me to stay updated on my coding journey and future endeavors!"
+Estou empolgado para continuar desenvolvendo minhas habilidades em desenvolvimento web e explorar novos projetos. Conecte-se comigo para se manter atualizado sobre minha jornada de codificação e futuros empreendimentos!"
 <br>
 <br>
 
