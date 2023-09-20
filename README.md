@@ -13,3 +13,6 @@ Responsive layout for seamless user experience across devices.
 Accessibility enhancements for screen reader users.
 User-friendly feedback during code generation.
 I'm excited to continue developing my web development skills and explore new projects. Connect with me to stay updated on my coding journey and future endeavors!"
+<br>
+<br>
+<img src="./img/1.png">
