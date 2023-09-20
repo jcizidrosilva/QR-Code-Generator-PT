@@ -15,4 +15,10 @@ User-friendly feedback during code generation.
 I'm excited to continue developing my web development skills and explore new projects. Connect with me to stay updated on my coding journey and future endeavors!"
 <br>
 <br>
+
 <img src="./img/1.png">
+
+<br>
+<br>
+<h3><a href="https://jcizidrosilva.github.io/QR-Code-Generator/" target="_blank"></a></h3>
+
