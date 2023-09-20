@@ -18,5 +18,5 @@ I'm excited to continue developing my web development skills and explore new pro
 
 <img src="./img/1.png">
 
-<h3><a href="https://jcizidrosilva.github.io/QR-Code-Generator/" target="_blank">Explore or QR Code Generator</a></h3>
+<h3><a href="https://jcizidrosilva.github.io/QR-Code-Generator/" target="_blank">Explore our QR Code Generator</a></h3>
 
