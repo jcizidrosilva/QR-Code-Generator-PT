@@ -18,5 +18,5 @@ Estou empolgado para continuar desenvolvendo minhas habilidades em desenvolvimen
 
 <img src="./img/1.png">
 
-<h3><a https://jcizidrosilva.github.io/QR-Code-Generator-PT/" target="_blank">Conheça our Gerador de QR Code</a></h3>
+<h3><a https://jcizidrosilva.github.io/QR-Code-Generator-PT/">Conheça our Gerador de QR Code</a></h3>
 
